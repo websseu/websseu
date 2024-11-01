@@ -12,8 +12,7 @@
 웹디자인개발기능사 튜토리얼입니다.   
 [webdesign2025](https://github.com/websseu/webdesign2025)   
 
-
-## 실전 프로젝트로 배우는 자바스크립트 완벽 가이드
+## 자바스크립트 완벽 가이드
 자바스크립트 기초 튜토리얼입니다.   
 [javascript](https://github.com/websseu/javascript)   
 
