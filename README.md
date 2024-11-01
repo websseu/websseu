@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-### FontKor (https://fontkor.vercel.app/)
+## FontKor (https://fontkor.vercel.app/)
+[Font KOREA](https://github.com/websseu/fontkor)
 : A curated collection of Korean fonts tailored for international users. Discover unique fonts designed to enhance multilingual projects with a Korean touch.
 
 ### KCalKor (https://kcalkor.vercel.app/)
