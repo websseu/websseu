@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ## 코리아 폰트 
-한국 폰트 정보 사이트입니다. [Font KOREA](https://github.com/websseu/fontkor) / [https://fontkor.vercel.app] (https://fontkor.vercel.app)   
+한국 폰트 정보 사이트입니다. [Font KOREA](https://github.com/websseu/fontkor) / [https://fontkor.vercel.app](https://fontkor.vercel.app)   
 
 ## 칼로리 정보 
-칼로리 정보 공유 사이트입니다. [Kcal KOREA](https://github.com/websseu/kaclkor) / [https://kcalkor.vercel.app] (KCalKor (https://kcalkor.vercel.app)   
+칼로리 정보 공유 사이트입니다. [Kcal KOREA](https://github.com/websseu/kaclkor) / [https://kcalkor.vercel.app](KCalKor (https://kcalkor.vercel.app)   
 
 ## 웹디자인개발기능사 2025
 [webdesign2025](https://github.com/websseu/webdesign2025)   
