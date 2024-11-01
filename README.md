@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 코리아 폰트 
-한국 폰트 정보 사이트입니다.   
+코리아 폰트 정보 사이트입니다.   
 [Font KOREA](https://github.com/websseu/fontkor) / [https://fontkor.vercel.app](https://fontkor.vercel.app)   
 
 ## 칼로리 정보 
