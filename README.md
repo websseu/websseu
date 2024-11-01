@@ -5,7 +5,7 @@
 [Font KOREA](https://github.com/websseu/fontkor) / [https://fontkor.vercel.app](https://fontkor.vercel.app)   
 
 ## 칼로리 정보 
-칼로리 정보 공유 사이트입니다. 
+칼로리 정보 공유 사이트입니다.     
 [Kcal KOREA](https://github.com/websseu/kaclkor) / [https://kcalkor.vercel.app](https://kcalkor.vercel.app)   
 
 ## 웹디자인개발기능사 2025
