@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-## FontKor (https://fontkor.vercel.app/)
+## 코리아 폰트 
+FontKor (https://fontkor.vercel.app/)   
 [Font KOREA](https://github.com/websseu/fontkor)
-: A curated collection of Korean fonts tailored for international users. Discover unique fonts designed to enhance multilingual projects with a Korean touch.
+한국 폰트 정보 사이트입니다.
 
-## KCalKor (https://kcalkor.vercel.app/)
+## 칼로리 정보 
+KCalKor (https://kcalkor.vercel.app/)   
 [Kcal KOREA](https://github.com/websseu/kaclkor)
-: An insightful resource providing detailed calorie and nutritional information on various foods and beverages, ideal for tracking and managing dietary needs.
+칼로리 정보 공유 사이트입니다.
 
 ## 웹디자인개발기능사 2025
 [webdesign2025](https://github.com/websseu/webdesign2025)   
