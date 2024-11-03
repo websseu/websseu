@@ -12,6 +12,10 @@
 칼로리 정보 공유 사이트입니다.     
 [Kcal KOREA](https://github.com/websseu/kaclkor) / [https://kcalkor.vercel.app](https://kcalkor.vercel.app)   
 
+## 유틸 사이트
+여러가지 유틸 기능의 정보를 제공합니다.
+[UTIL KOREA](https://github.com/websseu/utilkor) / [https://utilkor.vercel.app](https://utilkor.vercel.app)  
+
 ## 웹디자인개발기능사 2025
 웹디자인개발기능사 튜토리얼입니다.   
 [webdesign2025](https://github.com/websseu/webdesign2025)   
