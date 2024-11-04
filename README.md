@@ -6,15 +6,15 @@
     ├── webstoryboy  # 웹스토리보이 포탈 사이트
     ├── fontkor  # 코리아 폰트 정보 사이트
     ├── kcalkor  # 칼로리 정보 공유 사이트
-    ├── utilkor  # 유틸 정보 공유 사이트
+    └── utilkor  # 유틸 정보 공유 사이트
 ```
 강의
-```css
+```bash
 └── websseu
     ├── webdesign2025  # 웹디자인개발기능사 2025
     ├── javascript  # 자바스크립트 완벽 가이드
     ├── pythonStarbucks  # 파이썬을 이용한 스타벅스 데이터 수집하기
-    ├── nextCrud  # Next.js를 이용한 게시판 CRUD 만들기  
+    └── nextCrud  # Next.js를 이용한 게시판 CRUD 만들기  
 ```
 
 ## 웹스토리보이
