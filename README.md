@@ -16,6 +16,7 @@
     ├── pythonStarbucks  # 파이썬을 이용한 스타벅스 데이터 수집하기
     └── nextCrud  # Next.js를 이용한 게시판 CRUD 만들기  
 ```
+----------------------------------------------------------------------
 
 ### 웹스토리보이 [Git](https://github.com/websseu/webstoryboy), [Site](https://webstoryboy.vercel.app)   
 웹스토리보이의 관련 모든 정보를 볼 수 있는 포탈 사이트 같은 곳입니다.   
