@@ -25,9 +25,11 @@
 [javascript](https://github.com/websseu/javascript)   
 
 
-- **webstoryboy** - 웹스토리보이 포탈 사이트 ([사이트 링크](https://webstoryboy.vercel.app))
-- **fontkor** - 코리아 폰트 정보 사이트 ([사이트 링크](https://fontkor.vercel.app))
-- **kcalkor** - 칼로리 정보 공유 사이트 ([사이트 링크](https://kcalkor.vercel.app))
-- **utilkor** - 여러 가지 유틸리티 기능 제공 사이트 ([사이트 링크](https://utilkor.vercel.app))
-- **webdesign2025** - 웹디자인개발기능사 자격증 관련 튜토리얼
-- **javascript** - 자바스크립트 기초 튜토리얼
+프로젝트/ 
+```
+└── web/
+    ├── webstoryboy/ # 웹스토리보이 포탈 사이트
+    ├── fontkor/ # 코리아 폰트 정보 사이트
+    ├── kcalkor/ # 칼로리 정보 공유 사이트
+    └── utilkor/ # 유틸 사이트
+```
