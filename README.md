@@ -17,21 +17,17 @@
     └── nextCrud  # Next.js를 이용한 게시판 CRUD 만들기  
 ```
 
-## 웹스토리보이 [Git](https://github.com/websseu/webstoryboy),  [Site](https://webstoryboy.vercel.app)   
+## 웹스토리보이 [Git](https://github.com/websseu/webstoryboy), [Site](https://webstoryboy.vercel.app)   
 웹스토리보이의 관련 모든 정보를 볼 수 있는 포탈 사이트 같은 곳입니다.   
 
-
-## 코리아 폰트 [git](https://github.com/websseu/fontkor)    
+## 코리아 폰트 [git](https://github.com/websseu/fontkor), [Site](https://fontkor.vercel.app)   
 코리아 폰트 정보 사이트입니다.    
-[https://fontkor.vercel.app](https://fontkor.vercel.app)   
 
-## 칼로리 정보 [git](https://github.com/websseu/kaclkor)
+## 칼로리 정보 [git](https://github.com/websseu/kaclkor), [Site](https://kcalkor.vercel.app)   
 칼로리 정보 공유 사이트입니다.      
-[https://kcalkor.vercel.app](https://kcalkor.vercel.app)   
 
-## 유틸 사이트 [git](https://github.com/websseu/utilkor)
+## 유틸 사이트 [git](https://github.com/websseu/utilkor), [Site](https://utilkor.vercel.app)  
 여러가지 유틸 기능의 정보를 제공합니다.   
-[https://utilkor.vercel.app](https://utilkor.vercel.app)  
 
 ## 웹디자인개발기능사 2025 [git](https://github.com/websseu/webdesign2025)   
 웹디자인개발기능사 튜토리얼입니다.   
