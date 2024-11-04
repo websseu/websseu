@@ -14,6 +14,7 @@
     ├── webdesign2025  # 웹디자인개발기능사 2025
     ├── javascript  # 자바스크립트 완벽 가이드
     ├── pythonStarbucks  # 파이썬을 이용한 스타벅스 데이터 수집하기
+    ├── pythonMusic  # 파이썬을 이용한 뮤직 데이터 수집하기
     └── nextCrud  # Next.js를 이용한 게시판 CRUD 만들기  
 ```
 ----------------------------------------------------------------------
@@ -38,6 +39,9 @@
 
 ## 🥶 파이썬을 이용한 스타벅스 데이터 수집하기 [git](https://github.com/websseu/pythonStarbucks)   
 파이썬을 이용하여 스타벅스 관련 정보를 수집하여 파일을 만듭니다.
+
+## 🥶 파이썬을 이용한 뮤직 데이터 수집하기 [git](https://github.com/websseu/pythonMusic)   
+파이썬을 이용하여 뮤직 순위정보를 수집하여 파일을 만듭니다.
 
 ## 😱 Next.js를 이용한 게시판 CRUD 만들기 [git](https://github.com/websseu/next-crud)   
 Next.js를 이용하여 CRUD의 기본 원리와 서버를 배웁니다.
