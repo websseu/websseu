@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 사이트 
-```html
+```js
 └── websseu
     ├── webstoryboy  # 웹스토리보이 포탈 사이트
     ├── fontkor  # 코리아 폰트 정보 사이트
@@ -19,11 +19,11 @@
 
 ## 웹스토리보이 [git](https://github.com/websseu/webstoryboy)
 웹스토리보이의 관련 모든 정보를 볼 수 있는 포탈 사이트 같은 곳입니다.   
- / [https://webstoryboy.vercel.app](https://webstoryboy.vercel.app)   
+ [https://webstoryboy.vercel.app](https://webstoryboy.vercel.app)   
 
 ## 코리아 폰트 
-코리아 폰트 정보 사이트입니다.   
-[Font KOREA](https://github.com/websseu/fontkor) / [https://fontkor.vercel.app](https://fontkor.vercel.app)   
+코리아 폰트 정보 사이트입니다. [Git](https://github.com/websseu/fontkor)    
+[https://fontkor.vercel.app](https://fontkor.vercel.app)   
 
 ## 칼로리 정보 
 칼로리 정보 공유 사이트입니다.     
