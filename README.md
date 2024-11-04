@@ -3,7 +3,7 @@
 사이트 
 ```html
 └── websseu
-    ├── webstoryboy  # 웹스토리보이 포탈 사이트
+    ├── webstoryboy  # [git](https://github.com/websseu/webstoryboy)
     ├── fontkor  # 코리아 폰트 정보 사이트
     ├── kcalkor  # 칼로리 정보 공유 사이트
     └── utilkor  # 유틸 정보 공유 사이트
@@ -19,7 +19,7 @@
 
 ## 웹스토리보이
 웹스토리보이의 관련 모든 정보를 볼 수 있는 포탈 사이트 같은 곳입니다.   
-[webstoryboy](https://github.com/websseu/webstoryboy) / [https://webstoryboy.vercel.app](https://webstoryboy.vercel.app)   
+ / [https://webstoryboy.vercel.app](https://webstoryboy.vercel.app)   
 
 ## 코리아 폰트 
 코리아 폰트 정보 사이트입니다.   
