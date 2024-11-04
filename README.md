@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 사이트 
-```
+```html
 └── websseu
     ├── webstoryboy/ # 웹스토리보이 포탈 사이트
     ├── fontkor/ # 코리아 폰트 정보 사이트
@@ -9,6 +9,7 @@
     ├── utilkor/ # 유틸 정보 공유 사이트
 ```
 강의
+```html
 └── websseu
     ├── webstoryboy/ # 웹디자인개발기능사 2025
     ├── fontkor/ # 자바스크립트 완벽 가이드
