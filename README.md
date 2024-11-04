@@ -21,8 +21,6 @@
 ### 웹스토리보이 [Git](https://github.com/websseu/webstoryboy), [Site](https://webstoryboy.vercel.app)   
 웹스토리보이의 관련 모든 정보를 볼 수 있는 포탈 사이트 같은 곳입니다.   
 
-======================================================================
-
 ### 코리아 폰트 [git](https://github.com/websseu/fontkor), [Site](https://fontkor.vercel.app)   
 코리아 폰트 정보 사이트입니다.    
 
