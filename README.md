@@ -6,6 +6,7 @@
     ├── webstoryboy  # 웹스토리보이 포탈 사이트
     ├── fontkor  # 코리아 폰트 정보 사이트
     ├── kcalkor  # 칼로리 정보 공유 사이트
+    ├── netflixkor  # 넷플릭스 정보 공유 사이트
     └── utilkor  # 유틸 정보 공유 사이트
 ```
 ## 강의
