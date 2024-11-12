@@ -39,6 +39,9 @@
 ## 🤑 자바스크립트 완벽 가이드 [git](https://github.com/websseu/javascript)   
 자바스크립트 기초 튜토리얼입니다.   
 
+## 🥵 넷플릭스 정보 사이트 [git](https://github.com/websseu/javascript)   
+넷플릭스 정보 사이트입니다.
+
 ## 🥶 파이썬을 이용한 스타벅스 데이터 수집하기 [git](https://github.com/websseu/pythonStarbucks)   
 파이썬을 이용하여 스타벅스 관련 정보를 수집합니다.
 
