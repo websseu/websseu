@@ -10,6 +10,13 @@
     ├── musickor  # 전세계 음악 순위 정보 공유 사이트
     └── utilkor  # 유틸 정보 공유 사이트
 ```
+https://webstoryboy.vercel.app/
+https://fontkor.vercel.app/
+https://kcalkor.vercel.app/
+https://netflixkor.vercel.app/
+https://musickor.vercel.app/
+https://utilkor.vercel.app/
+
 ## 강의
 ```bash
 └── websseu
