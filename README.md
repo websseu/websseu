@@ -10,12 +10,12 @@
     ├── musickor  # 전세계 음악 순위 정보 공유 사이트
     └── utilkor  # 유틸 정보 공유 사이트
 ```
-https://webstoryboy.vercel.app/   
-https://fontkor.vercel.app/   
-https://kcalkor.vercel.app/   
-https://netflixkor.vercel.app/   
-https://musickor.vercel.app/   
-https://utilkor.vercel.app/   
+[웹스토리보이] https://webstoryboy.vercel.app/   
+[코리아 폰트] https://fontkor.vercel.app/   
+[칼로리 정보] https://kcalkor.vercel.app/   
+[netflixkor] https://netflixkor.vercel.app/   
+[musickor] https://musickor.vercel.app/   
+[utilkor] https://utilkor.vercel.app/   
 
 ## 강의
 ```bash
