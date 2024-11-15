@@ -45,7 +45,7 @@
 ## 🥵 넷플릭스 정보 사이트 [git](https://github.com/websseu/dudoom)   
 넷플릭스 정보 사이트입니다.
 
-## 🥵 전세계 음악 순위 정보 사이트 [git](https://github.com/websseu/musickor)   
+## 🥵 전세계 음악 순위 정보 사이트 [git](https://github.com/websseu/kkkoong)   
 전세계 음악 순위 정보 사이트입니다.
 
 ## 🥶 파이썬을 이용한 스타벅스 데이터 수집하기 [git](https://github.com/websseu/pythonStarbucks)   
