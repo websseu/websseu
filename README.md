@@ -42,7 +42,7 @@
 ## 🤑 자바스크립트 완벽 가이드 [git](https://github.com/websseu/javascript)   
 자바스크립트 기초 튜토리얼입니다.   
 
-## 🥵 넷플릭스 정보 사이트 [git](https://github.com/websseu/netflixkor)   
+## 🥵 넷플릭스 정보 사이트 [git](https://github.com/websseu/dudoom)   
 넷플릭스 정보 사이트입니다.
 
 ## 🥵 전세계 음악 순위 정보 사이트 [git](https://github.com/websseu/musickor)   
