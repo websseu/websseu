@@ -4,7 +4,7 @@
 ```bash
 └── websseu
     ├── webstoryboy  # 웹스토리보이 포탈 사이트
-    ├── fontkor  # 코리아 폰트 정보 사이트
+    ├── fffont  # 코리아 폰트 정보 사이트
     ├── kcalkor  # 칼로리 정보 공유 사이트
     ├── dudoom.com  # 넷플릭스 정보 공유 사이트
     ├── KKKoong.com  # 전세계 음악 순위 정보 공유 사이트
