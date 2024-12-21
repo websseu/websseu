@@ -12,6 +12,8 @@
     └── utilkor  # 유틸 정보 공유 사이트
 ```
 
+Global Music Rankings | https://www.thompstar.com/
+
 ## 강의
 ```bash
 └── websseu
