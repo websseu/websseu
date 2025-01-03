@@ -12,13 +12,14 @@
     └── utilkor  # 유틸 정보 공유 사이트
 ```
 
+👹 webstoryboy | https://www.webstroyboy.com/
 🎹 Global Music Rankings | https://www.thompstar.com/
 
 ## 데이터 수집 
 ```bash
 └── websseu
     ├── pythonStarbucks2  # 스타벅스 데이터 수집
-    ├── pythonMusic2  # 뮤직 데이터 수집
+    └── pythonMusic2  # 뮤직 데이터 수집
 ```
 
 ## 강의
