@@ -17,7 +17,8 @@
 ## 데이터 수집 
 ```bash
 └── websseu
-    ├── webstoryboy  # 웹스토리보이 포탈 사이트
+    ├── pythonStarbucks2  # 스타벅스 데이터 수집
+    ├── pythonMusic2  # 뮤직 데이터 수집
 ```
 
 ## 강의
