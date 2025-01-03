@@ -14,6 +14,12 @@
 
 🎹 Global Music Rankings | https://www.thompstar.com/
 
+## 데이터 수집 
+```bash
+└── websseu
+    ├── webstoryboy  # 웹스토리보이 포탈 사이트
+```
+
 ## 강의
 ```bash
 └── websseu
