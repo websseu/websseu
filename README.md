@@ -2,35 +2,14 @@
 
 ## 사이트 
 ```bash
-└── websseu
-    ├── webstoryboy  # 웹스토리보이 포탈 사이트
-    ├── fffont  # 코리아 폰트 정보 사이트
-    ├── kcalkor  # 칼로리 정보 공유 사이트
-    ├── dudoom.com  # 넷플릭스 정보 공유 사이트
-    ├── KKKoong.com  # 전세계 음악 순위 정보 공유 사이트
-    ├── ddabang.com  # 스타벅스 정보 공유 사이트
-    └── utilkor  # 유틸 정보 공유 사이트
+├── [010number](https://010number.com/)  # 번호 검색 서비스
+├── [tourbay](https://tourbay.net/)      # 자동화를 통한 호텔 블로그
+├── [openzoa](https://openzoa.com/))     # 오픈 시간 검색 서비스
+
 ```
 
-👹 webstoryboy | https://www.webstroyboy.com/
-🎹 Global Music Rankings | https://www.thompstar.com/
 
-## 데이터 수집 
-```bash
-└── websseu
-    ├── pythonStarbucks2  # 스타벅스 데이터 수집
-    └── pythonMusic2  # 뮤직 데이터 수집
-```
 
-## 강의
-```bash
-└── websseu
-    ├── webdesign2025  # 웹디자인개발기능사 2025
-    ├── javascript  # 자바스크립트 완벽 가이드
-    ├── pythonStarbucks  # 파이썬을 이용한 스타벅스 데이터 수집하기
-    ├── pythonMusic  # 파이썬을 이용한 뮤직 데이터 수집하기
-    ├── pythonNetflix  # 파이썬을 이용한 넷플릭스 데이터 수집하기
-    └── nextCrud  # Next.js를 이용한 게시판 CRUD 만들기  
 ```
 ----------------------------------------------------------------------
 
