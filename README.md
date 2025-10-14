@@ -4,7 +4,7 @@
 ```bash
 ├── [010number](https://010number.com/)  # 번호 검색 서비스
 ├── [tourbay](https://tourbay.net/)      # 자동화를 통한 호텔 블로그
-├── [openzoa](https://openzoa.com/))     # 오픈 시간 검색 서비스
+├── [openzoa](https://openzoa.com/)      # 오픈 시간 검색 서비스
 
 ```
 
