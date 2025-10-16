@@ -7,6 +7,7 @@
 ├── [openzoa](https://openzoa.com/)      # 오픈 시간 검색 서비스
 
 ```
+```bash
 ├── data_emart  # 이마트 데이터 수집
 ├── data_starbucks # 스타벅스 데이터 수집
 
